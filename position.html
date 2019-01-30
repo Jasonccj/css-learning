@@ -15,7 +15,7 @@
             background-color: greenyellow;
         }
         .div2 {
-            position: absolute;
+            position: relative;
             background-color: pink;
             width: 100px;
             height: 100px;
@@ -24,22 +24,29 @@
         }
         .div3 {
             position: absolute;
-            top: 0px;
-            left: 0px;
+            background-color: yellow;
+            width: 100px;
+            height: 100px;
+        }
+        .div4 {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 100px;
+            height: 100px;
+            background-color: red;
         }
     </style>
 </head>
 <body>
-    <h2>This is a heading with no position</h2>
-    <h2 class="pos_top">This heading is moved upwards according to its normal position</h2>
-    <p><b>注意:</b> 即使相对定位元素的内容是移动,预留空间的元素仍保存在正常流动。</p>
-    <div class="div1">11111</div>
-    <div class="div2">22222
 
-        <div class="div3">
-            33333
+    <div class="div2">一级relative
+        <div class="div3">二级absolute
+            <div class="div4">
+                三级absolute
+            </div>
         </div>
     </div>
-    <div>44444</div>
+
 </body>
 </html>
