@@ -2,7 +2,7 @@
 
 项目Github地址:[点击跳转](https://github.com/Jasonccj/css-learning/tree/master/everydayCss/cheeseburger)
 
-最近看到有人翻译这篇英文文章,正好还年后还没开始上班,在家没事也饿了,也打算自己好好做一个这样的芝士汉堡,品尝一下芝士汉堡的乐趣
+最近看到了一篇英文文章,正好看看看着也饿了,打算自己好好做一个这样的芝士汉堡,品尝一下芝士汉堡的乐趣
 
 <div align="center">
     <img src="https://jasonccj.oss-cn-beijing.aliyuncs.com/css-learning/cheeseburger/hanbao.jpg" width="300px" />
