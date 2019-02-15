@@ -1,11 +1,53 @@
 .cheeseburger{
-    /* 整个汉堡 */
+    width: 280px;
+    height: 40px;
+    border-radius: 15px;
+
+    box-shadow: 
+    10px 70px #fddb28,
+    10px 90px #1EE154,
+    10px 120px #962012;
 }
 
 .cheeseburger::before{
-    /* 上下两层面包 */
+    display: block ;
+    
+    width: 300px;
+    height: 70px;
+    
+    border-top: 90px solid #F5B231;
+    border-bottom: 60px solid #F5B231;
+    
+    border-radius: 30% 30% 20% 20%;
+    
+    content: '                ▾' ;
+    color: #fddb28;
+    white-space: pre;
+    font-size: 45px;
+    line-height: 45px;
 }
 
 .cheeseburger::after{
-    /* 芝麻 */
+    content: '' ;
+    display: block;
+
+    width: 10px;
+    height: 6px;
+    border-radius: 7px;
+
+    box-shadow: 
+        /* Top row */
+        55px -200px #ffffff,
+        105px -200px #ffffff,
+        155px -200px #ffffff,
+        205px -200px #ffffff,
+        245px -200px #ffffff,
+
+        /* Bottom row */
+        25px -160px #ffffff,
+        75px -160px #ffffff,
+        125px -160px #ffffff,
+        175px -160px #ffffff,
+        225px -160px #ffffff,
+        270px -160px #ffffff;
 }
