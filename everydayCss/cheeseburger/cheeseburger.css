@@ -1,0 +1,11 @@
+.cheeseburger{
+    /* 整个汉堡 */
+}
+
+.cheeseburger::before{
+    /* 上下两层面包 */
+}
+
+.cheeseburger::after{
+    /* 芝麻 */
+}
