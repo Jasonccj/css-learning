@@ -1,6 +1,8 @@
 # CSS绘制各种几何形状
 
-项目Github地址:[点击跳转](https://github.com/Jasonccj/css-learning/tree/master/everydayCss/polygon)
+Github地址:https://github.com/Jasonccj/css-learning/tree/master/everydayCss/polygon  
+掘金地址:https://juejin.im/post/5c68375d5188252a160efdec  
+慕课地址:https://www.imooc.com/article/278712  
 
 ## 正方形
 ```
