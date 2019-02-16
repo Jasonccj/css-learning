@@ -147,8 +147,6 @@ box-shadow:
 
 结束!
 
-特别鸣谢! [参考链接](https://www.lesscake.com/cheeseburger-css-div)
-
 # 最后
 - 喜欢的记得点个star.鼓励一下,谢谢!
 - 微信 cuixianseni
