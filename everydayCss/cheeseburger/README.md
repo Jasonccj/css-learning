@@ -1,6 +1,8 @@
 ## 一个DIV的芝士汉堡制作
 
-项目Github地址:[点击跳转](https://github.com/Jasonccj/css-learning/tree/master/everydayCss/cheeseburger)
+Github地址:https://github.com/Jasonccj/css-learning/tree/master/everydayCss/cheeseburger   
+掘金地址:https://juejin.im/post/5c66593de51d450ac119c35a   
+慕课地址:https://www.imooc.com/article/278478   
 
 最近看到了一篇英文文章,正好看看看着也饿了,打算自己好好做一个这样的芝士汉堡,品尝一下芝士汉堡的乐趣
 
