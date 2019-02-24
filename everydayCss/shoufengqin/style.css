@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    width: 400px;
+    height: 100%;
+    margin: 50px auto;
+}
+
+.box {
+    height: 100px;
+}
+
+.context {
+    height: 100%;
+}
+
+.box1 {
+    border-radius: 10px 10px 0 0;
+    background: #7986CB;
+}
+
+.box2 {
+    background: #FF8A65;
+}
+
+.box3 {
+    background: #F06292;
+}
+
+.box4 {
+    background: #4DB6AC;
+    border-radius: 0 0 10px 10px;
+}
+
