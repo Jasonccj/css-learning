@@ -4,22 +4,27 @@
     padding: 0px;
 }
 
-.main {
-    width: 400px;
-    height: 100%;
+body {
+    font-family: 'Lato' ,sans-serif;
+    background-color: #eee;
+}
+
+.container {
+    width: 300px;
+    font-size: 1.2em;
     margin: 50px auto;
+    border-radius: 10px;
+    cursor: pointer;
+    background: pink;
+    overflow: hidden; 
+    box-shadow: 6px 6px 24px rgba(0, 0, 0, 0.5);  
 }
 
-.box {
-    height: 100px;
-}
-
-.context {
-    height: 100%;
+ .box {
+    padding:15px 25px;
 }
 
 .box1 {
-    border-radius: 10px 10px 0 0;
     background: #7986CB;
 }
 
@@ -33,6 +38,10 @@
 
 .box4 {
     background: #4DB6AC;
-    border-radius: 0 0 10px 10px;
 }
+
+/* .context {
+    height: 100%;
+    background: pink;
+} */
 
